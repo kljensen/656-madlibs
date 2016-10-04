@@ -4,5 +4,9 @@ module.exports.adjectives = [
     'wiley',
     'tall',
     'creative',
-    'wiley'
+    'happy',
+    'boring',
+    'stupid',
+    'naive',
+    'simple',
 ];
